@@ -1,0 +1,115 @@
+*{
+	font-family: "Lato", sans-serif;
+}
+.main{
+	padding-top: 190px;
+}
+.block__container{
+	max-width: 810px;
+	margin: 0 auto;
+}
+h1{
+max-width: 100%;
+margin-bottom: 35px;
+font-weight: 900;
+font-size: 46px;
+line-height: 130%;
+color: #1E212C;
+}
+.img{
+	max-width: 100%;
+	margin-bottom: 65px;
+}
+.fat{
+	max-width: 100%;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+.facilisi{
+	max-width: 100%;
+	margin-bottom: 24px;
+	font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+}
+.morbi{
+	margin-bottom: 48px;
+}
+.loremfat__container{
+	padding-left: 58px;
+	margin-bottom: 48px;
+}
+.loremfat{
+	max-width: 100%;
+	font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+	color: #1E212C;
+}
+.amet{
+	max-width: 100%;
+	margin-bottom: 24px;
+	font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+	color: #424551;
+}
+.list__conteiner{
+	max-width: 100%;
+	padding-left: 32px;
+	margin-bottom: 24px;
+}
+.list{
+	font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+}
+.list li{
+	margin-bottom: 4px;
+}
+.vel{
+	max-width: 100%;
+	margin-bottom: 60px;
+	font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+}
+.red{
+	font-family: "Passions Conflict", cursive;
+	font-size: 30px;
+	font-weight: 900;
+	color: rgb(32, 23, 23);
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 4px 10px 20px #000, 20px 20px 10px rgb(95, 14, 14);
+	text-transform: capitalize;
+	line-height: 40px;
+	letter-spacing: 10px;
+	word-spacing: 4px;
+	background-color: antiquewhite;
+	max-height: 340px;
+	width: 400px;
+	padding: 10px 10px 10px 10px;
+	margin: 0 auto;
+	border: 4px dotted black;	
+}
+.blue{
+	background-color: rgb(190, 159, 159);
+	max-height: 180px;
+	overflow: auto;
+	width: 400px;
+}
+.row{
+	background-color: rgb(218, 210, 220);
+	width: 400px;
+	height: 400px;
+	border-radius: 100%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 60px;
+	box-shadow: 5px 5px 5px rgb(184, 148, 221), 5px 5px 5px rgb(184, 148, 221) inset ;
+	outline: 2px solid rgb(57, 2, 111);
+}
